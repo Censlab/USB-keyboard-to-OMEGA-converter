@@ -26,7 +26,7 @@ Imported from my old github account : https://github.com/sillycony/USB-keyboard-
 |LM1117MPX-3.3/NOPB|	U3|	SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR|	1|	LM1117MPX-3.3/NOPB|	TI|
 |USB-A-F-90-H9.5|	USB1|	USB-A-TH_C168725|	1|	USB-A-F-90-H9.5|	LCSC|
 
-Note: This list is given as an indication. Please report any errors to sillycony@mailo.com
+Note: This list is given as an indication. Please report any errors to censlab@mailo.com
 
 ## Resource files:
 
