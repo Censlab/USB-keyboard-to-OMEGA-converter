@@ -88,8 +88,12 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 
 ## IMPORTANT UPDATE 2023-03-31.
 
-- fixed a potential metastability issue on column outputs to the MSX machine.
+- Fixed a potential metastability issue on column outputs to the MSX machine.
 (Thanks to Konrad)
+
+## UPDATE 2024-01-03.
+
+- Place a 10K resistor in R4 in place of a 100K resistor. The component nomenclature has been updated accordingly.
 
 ## Another 'example' of making this USB converter 2023-11-28.
 
