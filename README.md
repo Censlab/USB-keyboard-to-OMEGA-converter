@@ -1,5 +1,6 @@
 # USB-keyboard-to-OMEGA-converter
-A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard port of the MSX2 OMEGA computer
+A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard port of the MSX2 OMEGA computer.
+Imported from my old github account : https://github.com/sillycony/USB-keyboard-to-OMEGA-converter
 
 **Released under the cc-by-sa-4.0 license for non-commercial use**
 
@@ -109,4 +110,4 @@ Jordi Solís also has an interesting GitHub page for MSX 'lovers': https://githu
 (I guess this is Jordi's page, based on the information I was able to find)
 
 
-## sillycony@mailo.com
+## censlab@mailo.com
