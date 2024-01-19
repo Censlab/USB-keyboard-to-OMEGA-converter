@@ -82,7 +82,7 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 
 But, the original version of the USB keyboard adapter also works very well with the MSX1 JFF compatible computer
 
-![JFF](/Other_implementations/JFF_USB_KEYBOARD.jpg)
+![JFF](/Other_implementations/JFF_USB_ADAPTER.jpg)
 
 ## IMPORTANT UPDATE 2023-02-27.
 
