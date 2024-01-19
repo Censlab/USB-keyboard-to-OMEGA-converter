@@ -80,6 +80,10 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 
 ![Konkotgit](/Other_implementations/usb_keyboard_adapter.jpg)
 
+But, the original version of the USB keyboard adapter also works very well with the MSX1 JFF compatible computer
+
+![JFF](/Other_implementations/JFF_USB_KEYBOARD.jpg)
+
 ## IMPORTANT UPDATE 2023-02-27.
 
 - Fixed 'Esc' key code on QWERTY (US) keyboard.
