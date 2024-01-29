@@ -117,5 +117,11 @@ Testing a wireless keyboard:
 Jordi Solís also has an interesting GitHub page for MSX 'lovers': https://github.com/capsule5000 
 (I guess this is Jordi's page, based on the information I was able to find)
 
+Albert Herranz, https://github.com/herraa1/msx-omega-usbkeybctrl-v1, This took the original design and modified it slightly so that it could be made more easily by hand, and could be attached with screws. 
+I suggest you visit his Github page where you will find his new creation files.
+
+![Albert Herranz](/Other_implementations/AH_usbkeybctrl.png)
+
+![Albert Herranz](/Other_implementations/AH_omega.png)
 
 ## censlab@mailo.com
