@@ -101,7 +101,7 @@ But, the original version of the USB keyboard adapter also works very well with 
 
 - Place a 10K resistor in R4 in place of a 100K resistor. The component nomenclature has been updated accordingly.
 
-## Another 'example' of making this USB converter 2023-11-28.
+## Another 'examples' of making this USB converter 2023-11-28.
 
 **Jordi Solís**, https://msxmakers.design.blog/proyectos/omega-usb-keyb-ctrl, gave a particularly well-detailed description of the creation of his copy. 
 
